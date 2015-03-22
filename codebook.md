@@ -1,13 +1,13 @@
-## Codebook
+# Codebook
 There are two data set, "tidy_data.txt" and "tidy_data_with_average.txt".
 Use read.table("tidy_data.txt", header = TRUE) to read data.
 
-## Variables
+# Variables
 There are 68 variables in the dataset.
 Note that in "tidy_data_with_average.txt", the first row represents the average
-of each variable. 
+of each variable. (Important!)
 
-## Variable lists
+# Variable lists
 1. subject
 2. activity
 3. tBodyAcc-mean()-X
