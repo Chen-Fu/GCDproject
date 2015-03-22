@@ -20,4 +20,4 @@ Convert the raw data into a tidy data set and make a codebook
 3. Combine the chosen subset of data, combine them, and name each column of the data. The first tidy data,"tidy_data.txt", is ready now.
 4. Add a row in the data.frame in order to create the second tidy data, "tidy_data_with_average.txt".
 
-For detailed information, see run_analysis.R.
+For detailed information, see codebook.md & run_analysis.R.
